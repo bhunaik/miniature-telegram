@@ -11,4 +11,3 @@ Here is the contents of the readme.
 Here is some updated content that was added locally.
 
 ##Introduction
-Added some more text locally.
